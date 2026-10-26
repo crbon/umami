@@ -190,7 +190,7 @@ const operation3 = defineOperation({
               },
               slug: {
                 type: 'string',
-                minLength: 8,
+                minLength: 4,
                 maxLength: 100,
               },
             },
